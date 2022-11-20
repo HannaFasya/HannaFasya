@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HannaFasya
-- 👀 I’m interested in UI/UX
+
 - 🌱 a survivor
 
 <!---
